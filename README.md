@@ -1,5 +1,5 @@
 # Guess the Capital
-![Screenshot](https://github.com/AkashKobal/guess-the-capital/blob/main/Screenshot%202024-07-08%20175855.png)
+![Screenshot](public/images/background.jpg)
 
 ## Table of Contents
 1. [Description](#description)
