@@ -36,7 +36,7 @@ This web application allows users to guess the capital cities of various countri
 
 3. **Configure Database**:
 
-   [Download CSV file](https://github.com/AkashKobal/guess-the-capital/blob/main/capitals.csv) <br>
+   [Download CSV file](https://github.com/umeshkarthik1606/guess-the-capital/blob/main/capitals.csv) <br>
    Set up your PostgreSQL database and update the connection settings in the .env file.
 
 5. **Run the Application**:
