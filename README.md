@@ -10,7 +10,6 @@
 6. [Testing](#testing)
 7. [Contributions](#contributions)
 8. [License](#license)
-9. [Contact Information](#contact-information)
 
 ## Description
 This web application allows users to guess the capital cities of various countries. It is built using EJS for templating, JavaScript for both client and server-side logic, and PostgreSQL for database management.
@@ -29,7 +28,7 @@ This web application allows users to guess the capital cities of various countri
 ## Setup Instructions
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/AkashKobal/guess-the-capital 
+   git clone https://github.com/umeshkarthik1606/guess-the-capital.git
 
 2. **Install Dependencies**:
    ```sh
@@ -65,6 +64,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 This project is licensed under the [MIT License](https://github.com/AkashKobal/guess-the-capital/blob/main/LICENSE).
 
-## Contact Information
-For further questions or support, please contact [akashkobal02@gmail.com] or open an issue on this repository.
 
